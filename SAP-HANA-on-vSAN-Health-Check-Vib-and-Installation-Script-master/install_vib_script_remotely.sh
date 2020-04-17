@@ -1,5 +1,5 @@
 #!/bin/sh
-# Version 1.5
+# Version 1.6.3
 # Script to install/update/remove VIB and set /usr/lib/vmware/vsan/bin/setvSANInfo.py to cronjob
 # Copyright (C) 2019 VMWare Inc <Chen WEI cwei@vmware.com>
 
