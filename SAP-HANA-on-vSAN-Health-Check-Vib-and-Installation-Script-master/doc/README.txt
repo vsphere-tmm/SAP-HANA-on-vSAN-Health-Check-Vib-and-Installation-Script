@@ -1,4 +1,4 @@
-VMware ESX 6.7 VIB Installation Instructions
+VMware ESX 6.7/7/8 VIB Installation Instructions
 
 VMware uses a file package called a VIB (VMware Installation Bundle) as the 
 mechanism for installing or upgrading software packages on an ESX server.
