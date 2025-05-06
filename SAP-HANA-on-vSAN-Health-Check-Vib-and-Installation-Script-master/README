@@ -15,7 +15,7 @@
 # "guestinfo.system.service_tag"
 # "guestinfo.system.ram.size_gb"
 # "guestinfo.system.cpu.model"
-# Copyright (C) 2023 VMWare Inc <Chen WEI cwei@vmware.com>
+# Copyright (C) 2025 VMWare LLC by Broadcom <Chen WEI chen.wei@broadcom.com>
 
 User can use script: install_vib_script_remotely.sh to install/update/remove the vib on the selected ESXi servers
 

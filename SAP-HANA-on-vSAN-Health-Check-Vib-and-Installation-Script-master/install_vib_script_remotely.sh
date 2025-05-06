@@ -1,8 +1,8 @@
 #!/bin/sh
-# Version 1.8.1
+# Version 1.9.0
 # Tested on vSphere 7 and vSphere 8
 # Script to install/update/remove VIB and set /usr/lib/vmware/vsan/bin/setvSANInfo.py to cronjob
-# Copyright (C) 2023 VMWare Inc <Chen WEI cwei@vmware.com>
+# Copyright (C) 2025 VMWare LLC by Broadcom <Chen WEI chen.wei@broadcom.com>
 
 basedir=$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )
 PING_TIMEOUT=2

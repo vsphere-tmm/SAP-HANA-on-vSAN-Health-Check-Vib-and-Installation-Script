@@ -20,7 +20,7 @@ For new installs, you should perform the following steps:
 
            Here's an example of using the Linux 'scp' utility to copy the file
            from a local system to an ESX server located at 10.10.10.10:
-             scp VMware_bootbank_net-driver.1.1.0-1vmw.0.0.372183.vib root@10.10.10.10:/tmp
+             scp sap-hana-set-info-9.0.0-0.0.24493215.i386.vib root@10.10.10.10:/tmp
 
 	2. Issue the following command (full path to the file must be specified):
               esxcli software vib install -v {VIBFILE}
@@ -28,7 +28,7 @@ For new installs, you should perform the following steps:
               esxcli software vib install -d {OFFLINE_BUNDLE}
        
            In the example above, this would be:
-              esxcli software vib install -v /tmp/VMware_bootbank_net-driver.1.1.0-1vmw.0.0.372183.vib
+              esxcli software vib install -v /tmp/sap-hana-set-info-9.0.0-0.0.24493215.i386.vib
 
 Note: Depending on the certificate used to sign the VIB, you may need to
       change the host acceptance level.  To do this, use the following command:
